@@ -15,6 +15,6 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
-MIT
+[MIT](LICENSE) 
 
 ![gülücük](https://productimages.hepsiburada.net/s/23/550/10047078826034.jpg/format:webp)
